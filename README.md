@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Flashcards
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app that allows for the creation of flash card quizes (Codecademy Full-Stack Developer Project)
 
 ## Available Scripts
 
